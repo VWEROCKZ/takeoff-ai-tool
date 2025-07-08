@@ -1,0 +1,5 @@
+Takeoff Summary
+----------------
+door - Count: 3 units
+wall - Area: 6.00 sq.m
+3 - Count: 4 units
